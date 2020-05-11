@@ -1,4 +1,2 @@
-# Notes on Betsy Majane
-
-## Header test ttt
+## Header test
 * [link test](emails/portia.pdf)
