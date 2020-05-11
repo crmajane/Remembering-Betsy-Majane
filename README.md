@@ -1,2 +1,2 @@
 ## Header test
-* [link test](emails/portia.pdf)
+* [link test](../emails/portia.pdf)
