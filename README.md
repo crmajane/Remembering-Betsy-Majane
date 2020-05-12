@@ -1,4 +1,4 @@
-![alt text](https://github.com/crmajane/Remembering-Betsy-Majane/blob/master/pictures/IMG_0473.JPG "head pic")
+![alt text](https://github.com/crmajane/Remembering-Betsy-Majane/blob/master/pictures/IMG_0487.png "head pic")
 
 [Obituary]
 
