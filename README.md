@@ -1,3 +1,5 @@
+![alt text](https://github.com/crmajane/Remembering-Betsy-Majane/blob/master/pictures/IMG_0473.JPG "head pic")
+
 [Obituary]
 
 Emails from Friends and Family
