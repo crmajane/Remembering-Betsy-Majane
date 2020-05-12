@@ -1,6 +1,6 @@
 # Notes on Betsy Majane
 
-## Emails from Friends and Family
+### Emails from Friends and Family
 * [Amanda Majane](emails/amanda_majane.pdf)
 * [Charles Kraft](emails/charles_krafft.pdf)
 * [Connie Buhl](emails/connie_buhl.pdf)
