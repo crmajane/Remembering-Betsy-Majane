@@ -6,8 +6,7 @@ Emails from Friends and Family
 * [Connie Buhl](emails/connie_buhl.pdf)
 * [Danielle Ofri](emails/danielle_ofri.pdf)
 * [Hsui-Ying Yang](emails/hsui-ying_yang.pdf)
-* [Iris Lindberg](emails/iris_lindberg.pdf)
-  * [Picture mentioned in email](pictures/BetsyMajaneParty84.jpg)
+* [Iris Lindberg](emails/iris_lindberg.pdf) and the [pictures](pictures/BetsyMajaneParty84.jpg) mentioned in her email
 * [Janine Danks](emails/janine_danks.pdf)
 * [Jau-Shyong Hong](emails/jau-shyong_hong.pdf)
 * [Micheal Iadarola](emails/micheal_iadarola.pdf)
