@@ -1,6 +1,4 @@
-![alt text](https://github.com/crmajane/Remembering-Betsy-Majane/blob/master/pictures/IMG_0487.png "head pic")
-
-[Obituary]
+[Obituary](Betsy_obit.pdf)
 
 Emails from Friends and Family
 * [Amanda Majane](emails/amanda_majane.pdf)
