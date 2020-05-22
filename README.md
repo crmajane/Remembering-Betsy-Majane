@@ -5,7 +5,7 @@ Emails from Friends and Family
 * [Charles Kraft](emails/charles_krafft.pdf)
 * [Connie Buhl](emails/connie_buhl.pdf)
 * [Danielle Ofri](emails/danielle_ofri.pdf)
-* [De-maw Chuang](emails./de-maw_chuang.pdf)
+* [De-maw Chuang](emails/de-maw_chuang.pdf)
 * [Hsui-Ying Yang](emails/hsui-ying_yang.pdf)
 * [Iris Lindberg](emails/iris_lindberg.pdf) and the [pictures](pictures/BetsyMajaneParty84.jpg) mentioned in her email
 * [Janine Danks](emails/janine_danks.pdf)
